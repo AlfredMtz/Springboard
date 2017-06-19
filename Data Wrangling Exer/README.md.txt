@@ -1,0 +1,1 @@
+This Mini-Project provides examples and exercises to get familiarize with some of the key basic packages to open, work and structure data when working with JSON files.
