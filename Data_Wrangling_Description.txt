@@ -2,7 +2,8 @@
 
 Housing Data:
 
-	The housing data is formally describe as “The Ames Housing Dataset” and was originally compiled by Dean De Cock. The objective was to build a data frame table consisting of major homes’ characteristics and their sale price.
+The housing data is formally describe as “The Ames Housing Dataset” and was originally compiled by Dean De Cock. The objective 
+was to build a data frame table consisting of major homes’ characteristics and their sale price.
 
 The steps taken for these consisted of:
 
@@ -35,7 +36,9 @@ The steps taken for these consisted of:
 
 WEATHER DATA:
 
-	The weather data was obtain from The National Center for Environmental Information(NOAA), the objective was to pull a data frame containing Average Precipitation, Average Maximum Temperature and Average Minimum Temperature on a Year- month basis from city Ames, Iowa.
+The weather data was obtain from The National Center for Environmental Information(NOAA), the objective was to pull
+a data frame containing Average Precipitation, Average Maximum Temperature and Average Minimum Temperature on a Year- month 
+basis from city Ames, Iowa.
 
 The steps taken for this included:
 
@@ -57,6 +60,5 @@ Finally, after wrangling and cleaning the housing and weather data, these two we
 
 
 SUMMARY
-On a last brief summary, each dataset was separately downloaded, built into a data frame and wrangled as needed, at the end the two cleaned data sets were jointed to a single data frame table to be user for analysis.
-
-
+On a last brief summary, each dataset was separately downloaded, built into a data frame and wrangled as needed, at the end the two cleaned
+data sets were jointed to a single data frame table to be user for analysis.
