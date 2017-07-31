@@ -26,7 +26,7 @@ The steps taken for these consisted of:
 	5. Searching for potential outliers:
 
 		a. Built graphs and scatterplots to check for potential outliers:
-			i. There were 3 properties with 0 values for bedrooms and bathrooms, the values were dropped, seemed to be typos and made not much sense to 				   relation to sale price.
+			i. There were 3 properties with 0 values for bedrooms and bathrooms, the values were dropped, seemed to be typos and made not much sense to relation to sale price.
 
 		b. Column “(GrLivArea): Living Area Square Feet” was filter to values under 5,000 Square Feet, after a data point was found to be highly isolated.
 
@@ -55,10 +55,7 @@ The steps taken for this included:
 	5. Building into a new data frame which included monthly averages for Precipitation, Maximum and Minimum Temperature.
 
 
-Finally, after wrangling and cleaning the housing and weather data, these two were joined to one single data frame table.
+After wrangling and cleaning the housing and weather data, these two were joined to one single data frame table.
 	
 
-
-SUMMARY
-On a last brief summary, each dataset was separately downloaded, built into a data frame and wrangled as needed, at the end the two cleaned
-data sets were jointed to a single data frame table to be user for analysis.
+As a short overview of this; each dataset was separately downloaded, built into a data frame and wrangled as needed, at the end the two cleaned data sets were jointed to a single data frame table to be user for analysis.
