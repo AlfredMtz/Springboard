@@ -37,7 +37,7 @@ Mentor-lead career track program with over 350 hours covering practical work, co
 |Ultimate Inc. data science challenge
 |KeepUp data science challenge 
 | Relax Inc. data science challenge
-|[Click this link to see the work](https://github.com/AlfredMtz/Data-Analysis-Challenges)|
+|[Click this link to see the work](https://github.com/AlfredMtz/springboard-coursework/tree/master/Data_analysis_challenges)|
 ---
 ---
 [![alt text][image]][hyperlink]
