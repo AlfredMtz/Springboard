@@ -29,7 +29,7 @@ Mentor-lead career track program with over 350 hours covering practical work, co
 |Time Series Analysis:|
 |[Click this link to see the work](https://github.com/AlfredMtz/Springboard-DataScience-CareerTrack-Work-Completed/tree/master/TimeSeries)|
 |MapReduce with Spark:|
-|[Click this link to see the work](https://github.com/AlfredMtz/PySpark-Excr-SpBb)|
+|[Click this link to see the work](https://github.com/AlfredMtz/springboard-coursework/tree/master/PySpark-Excr-SpBb)|
 
 
 |DATA SCIENCE CHALLENGES|
